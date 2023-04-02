@@ -8,14 +8,14 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "clean:windows": "rmdir /s node_modules\\react-native-orientation-locker\\node_modules\\",
+    "clean:windows": "rmdir /s node_modules\\@imonk777/react-native-orientation-locker\\node_modules\\",
     "start:windows": "react-native start --use-react-native-windows",
     "windows": "react-native run-windows --no-packager"
   },
   "dependencies": {
     "react": "16.13.1",
     "react-native": "0.63.2",
-    "react-native-orientation-locker": "file: ../../../",
+    "@imonk777/react-native-orientation-locker": "file: ../../../",
     "react-native-windows": "^0.63.3"
   },
   "devDependencies": {
