@@ -3,6 +3,10 @@
 
 A react-native module that can listen on orientation changing of device, get current orientation, lock to preferred orientation. (cross-platform support)
 
+# ORIGINAL CODE IS FROM THIS PACKAGE:
+https://www.npmjs.com/package/react-native-orientation-locker?activeTab=readme
+The package was forked to fix package.json dependencies for node >= 16.x.x  
+
 ### Feature
 
 * lock screen orientation to PORTRAIT|LANDSCAPE-LEFT|PORTRAIT-UPSIDEDOWN|LANDSCAPE-RIGHT.
